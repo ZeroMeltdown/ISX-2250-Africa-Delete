@@ -77,12 +77,20 @@ as follows, use at own risk.
   installed at the egr mixing joint of the intake as well to prevent lag
   or leakage of boost pressure.
 
++ If engine is equipped with a factory intake air shut-off device, the
+  center portion of the valve must be removed. Some 2250 engines had
+  this but not all.
+
 + All exhaust components must be removed or modified and made 100%
   hollow. This includes the SCR component as it will clog up over time.
   
 	NOTE: No component should be left partially intact so that it can
 	absorb or reflect exhaust gas heat. Shortened engine and
 	turbocharger life will result.
+
++ It is recommended to replace the crank case filter with cummins part
+  #3691476 Maintenance free filter to reduce crank case pressure and
+  back-pressure on the turbocharger oil return line.
 
 
 + Altering egr and exhaust components directly effects turbocharger
