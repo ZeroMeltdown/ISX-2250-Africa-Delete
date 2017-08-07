@@ -93,7 +93,7 @@ as follows, use at own risk.
   the Horsepower settings to protect the engine and keep oxygen levels
   without egr in check. Uploading the file from the engine and altering
   the position limiting tables is the easiest solution to this if
-  adjustment is necessary. The position limiting is handles by the
+  adjustment is necessary. The position limiting is in the
   'Turbo Air Handler Ratio' (TAHR) logic. These tables can be edited to
   adjust the turbocharger positioning...
   
