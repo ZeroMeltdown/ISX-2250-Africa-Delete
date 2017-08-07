@@ -4,9 +4,9 @@ The ISX 2250 South Africa Delete Project.
 
 Official Project Version "E".
 
-	This is the "South Africa Detele (S.A.D.)" project file
-collection. It consists of this readme and generic overlay. Instructions
-for use are as follows, use at own risk.
+  This is the "South Africa Detele (S.A.D.)" project file collection. It
+consists of this readme and generic overlay. Instructions for use are
+as follows, use at own risk.
 
 . Overlay is only intended for use with the 'BBZ' version of the 2250
   engine.
