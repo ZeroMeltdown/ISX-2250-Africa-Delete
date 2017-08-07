@@ -111,6 +111,6 @@ as follows, use at own risk.
   file taken form the engine directly. If it is desired to make a
   permanent change to the overlay itself for a particular CPL, copy it
   as a different filename and include the CPL in its name. It then can
-  be edited directly in Calterm vie the 'File-> Open Export File'
+  be edited directly in Calterm using the 'File-> Open Export File'
   command.
 
