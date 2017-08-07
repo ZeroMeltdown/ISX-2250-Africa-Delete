@@ -4,8 +4,8 @@ The ISX 2250 South Africa Delete Project.
 
 Official Project Version "E".
 
-  This is the "South Africa Detele (S.A.D.)" project file collection. It
-consists of this readme and generic overlay. Instructions for use are
+  This is the "South Africa Delete (S.A.D.)" project file collection. It
+consists of this read-me and generic overlay. Instructions for use are
 as follows, use at own risk.
 
 . Overlay is only intended for use with the 'BBZ' version of the 2250
@@ -21,10 +21,10 @@ as follows, use at own risk.
 + Read entire document well and establish good understanding of the
   process.
 
-+ Extract the proper Incal file for the engine according to its CPL. DO
-  NOT JUMP CPL!.
++ Extract the proper Incal file for the engine according to its CPL. Do
+  not jump CPL!.
 
-+ Use Calterm with proper metafile to perform overlay onto extracted
++ Use Calterm with proper meta-file to perform overlay onto extracted
   file.
   
 	WARNING: DO NOT OPEN EXTRACTED INCAL FILE TO EDIT/SAVE IT IN
@@ -32,11 +32,11 @@ as follows, use at own risk.
 	informations inside the Incal file and deteriorates its integrity.
 	Sometimes causes issues with the ecm. Performing only the overlay
 	does not cause this issue. Only do overlay!. If parameter editing is
-	desired then the file can be taken from the truck and editied after
+	desired then the file can be taken from the truck and edited after
 	the re-flashing process.
 	
 + Compress the Incal file as it was and place it into proper folder so
-  that the file can be flashed into the ecm with Isite.
+  that the file can be flashed into the ecm with Insite.
   
 + Unplug all hardware electrical connectors for all NOx sensors, SCR
   controller, egr valve, and all other egr and emissions related
@@ -44,7 +44,7 @@ as follows, use at own risk.
 
     WARNING: Everything must be unplugged or the ecm will re-establish
     J1939 communications to the devices such as the egr valve or NOx
-    sebnsors and flag them with errors.
+    sensors and flag them with errors.
    
 
 + Use standard methods to flash the file into the ecm with Insite. Be
@@ -68,10 +68,10 @@ as follows, use at own risk.
 
 + A blocking plate can be used between the exhaust manifold and the egr
   cooler at its elbow joint if desired. The plate must be made of thick
-  stainless and able to widthstand exhaust pressures in excess of 184
+  stainless and able to withstand exhaust pressures in excess of 184
   inhg (90 psig). Coolant flow through the egr cooler circuit must not
-  be blocked so that coolant will move throught he rear half of the
-  enigne properly. A 19mm (3/4") hose should replace the egr cooler
+  be blocked so that coolant will move through the rear half of the
+  engine properly. A 19mm (3/4") hose should replace the egr cooler
   coolant circuit if it is to be removed. A second plate can be
   installed at the egr mixing joint of the intake as well to prevent lag
   or leakage of boost pressure.
@@ -88,7 +88,7 @@ as follows, use at own risk.
   operation. It is necessary to test drive the equipment placing it
   under full engine operating load and checking maximum achieved
   turbocharger boost pressure to ensure it is not in excess. Maximum
-  turbocgarger pressure should not exceed 74 inhg (36 psig) no matter
+  turbocharger pressure should not exceed 74 inhg (36 psig) no matter
   the Horsepower settings to protect the engine and keep oxygen levels
   without egr in check. Uploading the file from the engine and altering
   the position limiting tables is the easiest solution to this if
@@ -103,10 +103,10 @@ as follows, use at own risk.
    
 		NOTE: These tables are typically adjusted per individual truck
 		as the outcome of alterations to egr and exhaust components
-		is umpredictable.
+		is unpredictable.
 		
 + Test equipment well for proper maximum boost levels and adjust as
-  necessary. Do not alter the Incal file for this but only the enigne
+  necessary. Do not alter the Incal file for this but only the engine
   file taken form the engine directly. If it is desired to make a
   permanent change to the overlay itself for a particular CPL, copy it
   as a different filename and include the CPL in its name. It then can
