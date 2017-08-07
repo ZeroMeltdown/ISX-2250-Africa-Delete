@@ -64,7 +64,8 @@ as follows, use at own risk.
 		
 	
 + After 10 minutes of initial engine run time the ecm file can be
-  uploaded with Calterm and altered/edited if needed or desired.
+  uploaded to/from the truck directly with Calterm and altered/edited
+  if needed or desired. Never edit incal file directly.
 
 + A blocking plate can be used between the exhaust manifold and the egr
   cooler at its elbow joint if desired. The plate must be made of thick
