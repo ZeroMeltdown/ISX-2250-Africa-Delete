@@ -94,7 +94,7 @@ as follows, use at own risk.
   the position limiting tables is the easiest solution to this if
   adjustment is necessary. The position limiting is handles by the
   'Turbo Air Handler Ratio' (TAHR) logic. These tables can be edited to
-  adjust the turbocharger piositioning...
+  adjust the turbocharger positioning...
   
    'C_TAHR_LLim_Table' for the lower limit/min allowed positioning.
 
